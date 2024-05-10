@@ -11,7 +11,7 @@ const homesec2 = () => {
       <h1 className='text-5xl font-bold m-auto max-w-screen-xl mb-8'>Explore your favorite creators</h1>
       <div className='grid gap-6 grid-cols-3 grid-rows-1 m-auto max-w-screen-xl'>
       {creator.map((creator) => (
-        <Link href={`overview/${creator.id}`} key={creator.id}>
+        <Link href={`creator/${creator.id}`} key={creator.id}>
         <div className='bg-emerald-100 rounded-xl min-h-[350px] hover:scale-105 transition-all text-black'>
           <Image src={creator.imageURL} alt={creator.altText} width={500} height={200} className='rounded-tl-xl rounded-tr-xl'/>
           <div className='p-5'>
