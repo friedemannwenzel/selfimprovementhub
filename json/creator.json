@@ -1,0 +1,23 @@
+[
+    {
+        "id": "creator1",
+        "altText": "Beispielbild",
+        "imageURL": "/chriswilliamson.jpeg",
+        "title": "Chris Williamson",
+        "description": "Hamza is one of the best self improvement creators out there."
+    },
+    {
+        "id": "creator2",
+        "altText": "Beispielbild",
+        "imageURL": "/imangadhzi3.webp",
+        "title": "Iman Gadzhi",
+        "description": "Hamza is one of the best self improvement creators out there."
+    },
+    {
+        "id": "creator3",
+        "altText": "Beispielbild",
+        "imageURL": "/hamzaahmed.webp",
+        "title": "Hamza Ahmed",
+        "description": "Hamza is one of the best self improvement creators out there."
+    }
+]
