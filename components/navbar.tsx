@@ -29,7 +29,7 @@ export default function App() {
             aria-label={isMenuOpen ? "Close menu" : "Open menu"}
             className="sm:hidden"
           />
-          <Link href="/home">
+          <Link href="/">
             <NavbarBrand>
               <p className="font-bold text-inherit">SIH</p>
             </NavbarBrand>
