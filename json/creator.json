@@ -1,23 +1,23 @@
 [
     {
         "id": "chris-williamson",
-        "altText": "Beispielbild",
+        "altText": "chris williamson portrait",
         "imageURL": "/chriswilliamson.jpeg",
         "title": "Chris Williamson",
-        "description": "Hamza is one of the best self improvement creators out there."
+        "description": "The podcaster covers a wide range of topics including psychology, philosophy, health, and personal development, featuring interviews with experts from various fields"
     },
     {
-        "id": "creator2",
-        "altText": "Beispielbild",
+        "id": "iman-gadzhi",
+        "altText": "iman gadzhi portrait",
         "imageURL": "/imangadhzi3.webp",
         "title": "Iman Gadzhi",
-        "description": "Hamza is one of the best self improvement creators out there."
+        "description": "Gadzhi is perhaps best recognized for his role as an educator through his online courses and programs, which focus on teaching others how to start and scale their own digital marketing agencies."
     },
     {
-        "id": "creator3",
-        "altText": "Beispielbild",
+        "id": "hamza-ahmed",
+        "altText": "hamza ahmed portrait",
         "imageURL": "/hamzaahmed.webp",
         "title": "Hamza Ahmed",
-        "description": "Hamza is one of the best self improvement creators out there."
+        "description": "Hamza Ahmed is a popular YouTuber who focuses on self-improvement and personal development for young men. He aims to guide his audience through practical advice and motivational speeches."
     }
 ]

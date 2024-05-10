@@ -1,0 +1,17 @@
+[
+    {
+        "id": "article1",
+        "title": "Who is Hamza Ahmed?",
+        "description": "Discover the life and work of Hamza Ahmed."
+    },
+    {
+        "id": "arcticle2",
+        "title": "What is self-improvement?",
+        "description": "Get to know the concept of self-improvement and how it can help you grow."
+    },
+    {
+        "id": "article3",
+        "title": "How to stay motivated?",
+        "description": "Learn how to stay motivated and achieve your goals."
+    }
+]

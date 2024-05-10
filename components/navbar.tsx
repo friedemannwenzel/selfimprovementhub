@@ -31,7 +31,7 @@ export default function App() {
           />
           <Link href="/">
             <NavbarBrand>
-              <p className="font-bold text-inherit">SIH</p>
+              <p className="font-bold text-inherit">selfimprovementhub.org</p>
             </NavbarBrand>
           </Link>
         </NavbarContent>
