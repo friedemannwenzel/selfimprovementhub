@@ -3,7 +3,6 @@ import Link from 'next/link';
 import {Button} from "@nextui-org/button";
 import article from '@/json/learn.json'
 
-export const runtime = "edge";
 
 const learn = () => {
   return (
