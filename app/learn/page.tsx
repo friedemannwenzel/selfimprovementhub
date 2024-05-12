@@ -2,6 +2,7 @@
 import React from 'react'
 import articleData from '@/json/learn.json';
 import ArticleCard from '@/components/ArticleCard';
+export const runtime ="edge";
 
 const learn = () => (
   <div className=''>

@@ -1,6 +1,7 @@
 import article from '@/json/learn.json';
 import { Button } from "@nextui-org/button";
 import Link from 'next/link';
+export const runtime ="edge";
 
 const selectedArticle = {
   title: 'Article Title',

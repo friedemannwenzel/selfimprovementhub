@@ -2,6 +2,7 @@
 import React from 'react'
 import articleData from '@/json/creator.json';
 import ArticleCard from '@/components/ArticleCard';
+export const runtime ="edge";
 
 const creator = () => (
   <div className=''>
