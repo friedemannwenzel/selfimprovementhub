@@ -1,6 +1,7 @@
 import article from '@/json/learn.json';
 import { Button } from "@nextui-org/button";
 import Link from 'next/link';
+import Image from 'next/image';
 export const runtime ="edge";
 
 const selectedArticle = {
@@ -48,7 +49,7 @@ export default function Page({ params }: { params: { id: string } }) {
         <div key={index}>
           <h1 className='mt-8 text-2xl font-bold'>{section.heading}</h1>
           <p className='mt-2 text-lg'>{section.paragraph}</p>
-          {section.imageUrl && <img src={section.imageUrl} alt={section.imageAlt} width={500} height={200} className='mt-4' />}
+          {section.imageUrl && <Image src={section.imageUrl} alt={section.imageAlt} width={500} height={200} className='mt-4' />}
         </div>
       ))}
     </article>

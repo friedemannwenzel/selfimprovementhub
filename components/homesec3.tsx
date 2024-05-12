@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import {Button, ButtonGroup} from "@nextui-org/button";
-import image from 'next/image';
+import Image from 'next/image';
 
 
 const homesec3 = () => {
@@ -16,7 +16,7 @@ const homesec3 = () => {
         <Button color="primary" size="lg" className='mt-4 text-xl' variant="shadow">Start reading</Button>
       </div>
       <div className='p-5 min-h-[400px] flex items-center'>
-        <img src='/person2badgekey.svg' alt='svg' width={500} height={200} className='rounded-xl'/>
+        <Image src='/person2badgekey.svg' alt='svg' width={500} height={200} className='rounded-xl'/>
       </div>
     </div>
     )
