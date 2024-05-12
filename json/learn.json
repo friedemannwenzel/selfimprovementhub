@@ -1,17 +1,31 @@
 [
     {
         "id": "article1",
-        "title": "Who is Hamza Ahmed?",
-        "description": "Discover the life and work of Hamza Ahmed."
-    },
-    {
-        "id": "arcticle2",
-        "title": "What is self-improvement?",
-        "description": "Get to know the concept of self-improvement and how it can help you grow."
-    },
-    {
-        "id": "article3",
-        "title": "How to stay motivated?",
-        "description": "Learn how to stay motivated and achieve your goals."
+        "title": "How to improve sleep",
+        "description": "A guide to improving sleep",
+        "creator": "Chris Williamson",
+        "date": "2024-05-12 12:00:00",
+        "content": [
+          {
+            "heading": "Introduction",
+            "paragraph": "Sleep is important for overall health and wellbeing. It is essential for the body to rest and recover from the day's activities. However, many people struggle with sleep and find it difficult to get a good night's rest. This guide will provide tips and strategies to help improve sleep and get the rest you need.",
+            "imageUrl": "/chriswilliamson.jpeg",
+            "imageAlt": "chriswilliamson sitting infront of a microphone."
+          },
+          {
+            "heading": "Step 1",
+            "paragraph": "Go to bed at the same time every night. This will help regulate your body's internal clock and make it easier to fall asleep and wake up at the same time each day.",
+            "imageUrl": "",
+            "imageAlt": "chriswilliamson sitting infront of a microphone."
+          },
+          {
+            "heading": "Step 2",
+            "paragraph": "Wake up at the same time every morning. Even on weekends, try to wake up at the same time to help regulate your body's internal clock."
+          },
+          {
+            "heading": "Step 3",
+            "paragraph": "Avoid caffeine after 3pm. Caffeine can interfere with your body's ability to fall asleep, so try to avoid it in the afternoon and evening."
+          }
+        ]
     }
 ]

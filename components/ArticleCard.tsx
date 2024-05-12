@@ -1,0 +1,18 @@
+// ArticleCard.tsx
+import React from 'react'
+import Link from 'next/link';
+import {Button} from "@nextui-org/button";
+
+const ArticleCard = ({ data, path }: { data: any, path: string }) => (
+  <div className='rounded-xl min-h-[325px] hover:scale-105 transition-all text-black relative shadow-sm border-1 hover:shadow-md' key={data.id}>
+    <div className='p-8'>
+      <h1 className='text-3xl line-clamp-2 font-bold my-3'>{data.title}</h1>
+      <p className='text-lg mb-3 line-clamp-3'>{data.description}</p>
+      <Link href={`${path}/${data.id}`}>
+        <Button color="secondary" size="lg" variant="shadow" className='absolute bottom-8 font-medium'>Explore</Button>
+      </Link>
+    </div>
+  </div>
+);
+
+export default ArticleCard;
