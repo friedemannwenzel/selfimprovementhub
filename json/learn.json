@@ -2,14 +2,14 @@
     {
         "id": "article1",
         "title": "How to improve sleep",
-        "description": "A guide to improving sleep",
+        "description": "This guide will provide tips and strategies to help improve sleep and get the rest you need.",
         "creator": "Chris Williamson",
         "date": "2024-05-12 12:00:00",
         "content": [
           {
             "heading": "Introduction",
             "paragraph": "Sleep is important for overall health and wellbeing. It is essential for the body to rest and recover from the day's activities. However, many people struggle with sleep and find it difficult to get a good night's rest. This guide will provide tips and strategies to help improve sleep and get the rest you need.",
-            "imageUrl": "/chriswilliamson.jpeg",
+            "imageUrl": "",
             "imageAlt": "chriswilliamson sitting infront of a microphone."
           },
           {

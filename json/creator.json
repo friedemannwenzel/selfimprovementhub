@@ -4,20 +4,134 @@
         "altText": "chris williamson portrait",
         "imageURL": "/chriswilliamson.jpeg",
         "title": "Chris Williamson",
-        "description": "The podcaster covers a wide range of topics including psychology, philosophy, health, and personal development, featuring interviews with experts from various fields"
+        "description": "The podcaster covers a wide range of topics including psychology, philosophy, health, and personal development, featuring interviews with experts from various fields",
+        "content": [
+            {
+              "heading": "Who is Chris Williamson?",
+              "paragraph": "Chris Williamson is a podcaster and content creator known for his show, Modern Wisdom. He covers a wide range of topics including psychology, philosophy, health, and personal development, featuring interviews with experts from various fields. His goal is to provide valuable insights and practical advice to help his audience improve their lives and achieve their goals.",
+              "imageUrl": "/chriswilliamson.jpeg",
+              "imageAlt": "chriswilliamson sitting infront of a microphone."
+            }
+        ]
     },
     {
         "id": "iman-gadzhi",
         "altText": "iman gadzhi portrait",
         "imageURL": "/imangadhzi3.webp",
         "title": "Iman Gadzhi",
-        "description": "Gadzhi is perhaps best recognized for his role as an educator through his online courses and programs, which focus on teaching others how to start and scale their own digital marketing agencies."
+        "description": "Gadzhi is perhaps best recognized for his role as an educator through his online courses and programs, which focus on teaching others how to start and scale their own digital marketing agencies.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.webp",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
     },
     {
         "id": "hamza-ahmed",
         "altText": "hamza ahmed portrait",
         "imageURL": "/hamzaahmed.webp",
         "title": "Hamza Ahmed",
-        "description": "Hamza Ahmed is a popular YouTuber who focuses on self-improvement and personal development for young men. He aims to guide his audience through practical advice and motivational speeches."
+        "description": "Hamza Ahmed is a popular YouTuber who focuses on self-improvement and personal development for young men. He aims to guide his audience through practical advice and motivational speeches.",
+        "content": [
+            {
+              "heading": "Who is Hamza Ahmed?",
+              "paragraph": "Hamza Ahmed is a popular YouTuber who focuses on self-improvement and personal development",
+              "imageUrl": "/hamzaahmed.webp",
+              "imageAlt": "Hamza with Chris Williamson"
+            }
+        ]
+    },
+    {
+        "id": "jordan-peterson",
+        "altText": "jordan peterson portrait",
+        "imageURL": "/jordanpeterson.webp",
+        "title": "Jordan Peterson",
+        "description": "Jordan Peterson is a clinical psychologist, professor, and author known for his lectures and books on topics such as psychology, philosophy, and personal development. He has gained a large following for his insights on self-improvement and societal issues.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
+    },
+    {
+        "id": "tristan-tate",
+        "altText": "tristan tate portrait",
+        "imageURL": "/tristantate.webp",
+        "title": "Tristan Tate",
+        "description": "Tristan Tate is a YouTuber and entrepreneur who shares his experiences and insights on personal development, business, and lifestyle. He aims to inspire and motivate his audience to pursue their goals and dreams.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
+    },
+    {
+        "id": "andrew-huberman",
+        "altText": "andrew huberman portrait",
+        "imageURL": "/andrewhuberman.webp",
+        "title": "Andrew Huberman",
+        "description": "Andrew Huberman is a neuroscientist and professor known for his research on brain function, vision, and behavior. He shares his knowledge through lectures, podcasts, and online courses, focusing on topics such as neuroscience, psychology, and personal development.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
+    },
+    {
+        "id": "jocko-willink",
+        "altText": "jocko willink portrait",
+        "imageURL": "/jockowillink.webp",
+        "title": "Jocko Willink",
+        "description": "Jocko Willink is a retired Navy SEAL, author, and podcaster known for his leadership and motivational advice. He shares his insights on discipline, resilience, and personal development through his books, podcasts, and speaking engagements.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
+    },
+    {
+        "id": "cameron-hanes",
+        "altText": "cameron hanes portrait",
+        "imageURL": "/cameronhanes.webp",
+        "title": "Cameron Hanes",
+        "description": "Cameron Hanes is an ultra-endurance athlete, bowhunter, and author known for his physical and mental toughness. He shares his experiences and insights on fitness, hunting, and personal development through his books, podcasts, and social media.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
+    },
+    {
+        "id": "mike-thurston",
+        "altText": "mike thurston portrait",
+        "imageURL": "/mikethurston.webp",
+        "title": "Mike Thurston",
+        "description": "Mike Thurston is a fitness coach, bodybuilder, and YouTuber known for his workout videos and training tips. He shares his knowledge on fitness, nutrition, and personal development through his online platforms, aiming to inspire and educate his audience.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
     }
 ]
