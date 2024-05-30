@@ -56,7 +56,7 @@ export default function App() {
                   index === 2 ? "primary" : index === menuItems.length - 1 ? "danger" : "foreground"
                 }
                 className="w-full"
-                href="#"
+                href={`/${item}`}
               >
                 {item}
               </Link>
