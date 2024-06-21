@@ -133,5 +133,20 @@
               "imageAlt": "iman gahdzi leaning on a fence."
             }
         ]
+    },
+    {
+        "id": "alan",
+        "altText": "mike thurston portrait",
+        "imageURL": "/mikethurston.webp",
+        "title": "Alan",
+        "description": "Mike Thurston is a fitness coach, bodybuilder, and YouTuber known for his workout videos and training tips. He shares his knowledge on fitness, nutrition, and personal development through his online platforms, aiming to inspire and educate his audience.",
+        "content": [
+            {
+              "heading": "Who is Iman Gadzhi?",
+              "paragraph": "Iman Gadzhi is a digital marketer and entrepreneur known for his role as an educator. He offers online courses and programs that focus on teaching others how to start and scale their own digital marketing agencies. His goal is to help aspiring entrepreneurs build successful businesses and achieve financial independence through digital marketing strategies.",
+              "imageUrl": "/imangadhzi3.jpeg",
+              "imageAlt": "iman gahdzi leaning on a fence."
+            }
+        ]
     }
 ]
