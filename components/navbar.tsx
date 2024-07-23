@@ -13,7 +13,7 @@ export default function App() {
       "home",
       "news",
       "creator",
-      "learn",
+      "learnn",
     ];
   
     return (
