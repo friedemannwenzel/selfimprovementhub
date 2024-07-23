@@ -1,31 +1,60 @@
 [
-    {
-        "id": "article1",
-        "title": "How to improve sleep",
-        "description": "This guide will provide tips and strategies to help improve sleep and get the rest you need.",
-        "creator": "Chris Williamson",
-        "date": "2024-05-12 12:00:00",
-        "content": [
-          {
-            "heading": "Introduction",
-            "paragraph": "Sleep is important for overall health and wellbeing. It is essential for the body to rest and recover from the day's activities. However, many people struggle with sleep and find it difficult to get a good night's rest. This guide will provide tips and strategies to help improve sleep and get the rest you need.",
-            "imageUrl": "",
-            "imageAlt": "chriswilliamson sitting infront of a microphone."
-          },
-          {
-            "heading": "Step 1",
-            "paragraph": "Go to bed at the same time every night. This will help regulate your body's internal clock and make it easier to fall asleep and wake up at the same time each day.",
-            "imageUrl": "",
-            "imageAlt": "chriswilliamson sitting infront of a microphone."
-          },
-          {
-            "heading": "Step 2",
-            "paragraph": "Wake up at the same time every morning. Even on weekends, try to wake up at the same time to help regulate your body's internal clock."
-          },
-          {
-            "heading": "Step 3",
-            "paragraph": "Avoid caffeine after 3pm. Caffeine can interfere with your body's ability to fall asleep, so try to avoid it in the afternoon and evening."
-          }
-        ]
-    }
+  {
+    "id": "article1",
+    "title": "How to improve sleep",
+    "imageURL": "/sleep-1.webp",
+    "imageAlt": "sleep icon",
+    "description": "This guide will provide tips and strategies to help improve sleep and get the rest you need.",
+    "creator": "Chris Williamson",
+    "date": "2024-05-12 12:00:00",
+    "content": [
+      {
+        "heading": "Introduction",
+        "paragraph": "Sleep is important for overall health and wellbeing. It is essential for the body to rest and recover from the day's activities. However, many people struggle with sleep and find it difficult to get a good night's rest. This guide will provide tips and strategies to help improve sleep and get the rest you need.",
+        "imageUrl": "/sleep-1.webp",
+        "imageAlt": "chriswilliamson sitting infront of a microphone."
+      },
+      {
+        "heading": "Step 1",
+        "paragraph": "Go to bed at the same time every night. This will help regulate your body's internal clock and make it easier to fall asleep and wake up at the same time each day.",
+        "imageUrl": "",
+        "imageAlt": "chriswilliamson sitting infront of a microphone."
+      },
+      {
+        "heading": "Step 2",
+        "paragraph": "Wake up at the same time every morning. Even on weekends, try to wake up at the same time to help regulate your body's internal clock."
+      },
+      {
+        "heading": "Step 3",
+        "paragraph": "Avoid caffeine after 3pm. Caffeine can interfere with your body's ability to fall asleep, so try to avoid it in the afternoon and evening."
+      }
+    ]
+  },
+  {
+    "id": "article2",
+    "title": "How to improve focus",
+    "imageURL": "/brain-1.webp",
+    "imageAlt": "brain icon",
+    "description": "This guide will provide tips and strategies to help improve focus and concentration.",
+    "creator": "Frodo",
+    "date": "2024-06-01 12:00:00",
+    "content": [
+      {
+        "heading": "Introduction",
+        "paragraph": "Focus and concentration are essential for getting work done and achieving your goals. However, many people struggle with distractions and find it difficult to stay focused. This guide will provide tips and strategies to help improve focus and concentration."
+      },
+      {
+        "heading": "Step 1",
+        "paragraph": "Create a distraction-free work environment. Remove any distractions from your workspace, such as your phone or other electronic devices, to help you stay focused on the task at hand."
+      },
+      {
+        "heading": "Step 2",
+        "paragraph": "Take regular breaks. Taking short breaks throughout the day can help improve focus and concentration. Try the Pomodoro Technique, which involves working for 25 minutes and then taking a 5-minute break."
+      },
+      {
+        "heading": "Step 3",
+        "paragraph": "Get enough sleep. Lack of sleep can negatively impact focus and concentration, so make sure you are getting enough rest each night."
+      }
+    ]
+  }
 ]

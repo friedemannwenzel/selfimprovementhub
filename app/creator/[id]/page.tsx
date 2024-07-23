@@ -27,7 +27,7 @@ export default function Page({ params }: { params: { id: string } }) {
     <Link href={`/creator`}>
         <Button color="default" size="sm" variant="light" className='fixed top-26 left-6 font-medium'>back</Button>
     </Link>
-    <article className='max-w-screen-md m-auto'>
+    <article className='max-w-screen-md m-auto px-2'>
       <h1 className='mt-8 text-5xl font-bold'>{selectedCreator?.title}</h1>
       <p className='text-xl font-medium mt-2'>{selectedCreator?.description}</p>
       {selectedCreator?.content.map((section, index) => (

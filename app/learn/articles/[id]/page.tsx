@@ -40,7 +40,7 @@ export default function Page({ params }: { params: { id: string } }) {
     <Link href={`/learn`}>
         <Button color="default" size="sm" variant="light" className='fixed top-26 left-6 font-medium'>back</Button>
     </Link>
-    <article className='max-w-screen-md m-auto'>
+    <article className='max-w-screen-md m-auto px-2'>
       <h1 className='mt-8 text-5xl font-bold'>{selectedArticle?.title}</h1>
       <p className='text-xl font-medium mt-2'>{selectedArticle?.description}</p>
       <p className='mt-2 text-sm text-slate-500 italic'>by {selectedArticle?.creator}</p>
@@ -49,7 +49,7 @@ export default function Page({ params }: { params: { id: string } }) {
         <div key={index}>
           <h1 className='mt-8 text-2xl font-bold'>{section.heading}</h1>
           <p className='mt-2 text-lg'>{section.paragraph}</p>
-          {section.imageUrl && <Image src={section.imageUrl} alt={section.imageAlt} width={500} height={200} className='mt-4' />}
+          {section.imageUrl && <Image src={section.imageUrl} alt={section.imageAlt} width={1000} height={200} className='mt-4 rounded-md' />}
         </div>
       ))}
     </article>

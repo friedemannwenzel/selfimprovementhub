@@ -7,7 +7,7 @@ import {Button, ButtonGroup} from "@nextui-org/button";
 const homesec2 = () => {
   return (
     <>
-    <div className='bg-black text-white py-24 mt-44 px-2'>
+    <div className='bg-black text-white py-24 px-2'>
       <h1 className='text-5xl font-bold m-auto max-w-screen-xl mb-8 '>Explore your favorite creators</h1>
       <div className='grid gap-6 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 m-auto max-w-screen-xl mb-8'>
       {creator.slice(0, 3).map((creator) => (

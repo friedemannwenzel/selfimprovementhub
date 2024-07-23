@@ -1,5 +1,5 @@
 import Homesec1 from "@/components/homesec1";
-import Homesec2 from "@/components/homesec2";
+import Homesec5 from "@/components/homesec5";
 import Homesec3 from "@/components/homesec3";
 import Homesec4 from "@/components/homesec4";
 
@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <Homesec1 />
       <Homesec4 />
-      <Homesec2 />
+      <Homesec5 />
       <Homesec3 />
     </>
   );
